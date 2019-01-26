@@ -1,2 +1,2 @@
 # CSCP
-CSC： Common Server Cilent Project
+CSCP： Common Server Cilent Project
